@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "bigboy",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bigboy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Theboys-i70w.aternos.me",
-    "port":  44907,
+    "ip": "VTXvect0rSMP.aternos.me",
+    "port":  19063,
     "version": "",
     "try-creative": false
   },
